@@ -1,2 +1,2 @@
 # typeracer-processing
-# first ever personal project
+first ever personal project
